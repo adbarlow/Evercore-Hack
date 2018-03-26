@@ -1,0 +1,12 @@
+#Site settings
+title: Evercore Hackathon
+baseurl: "/Evercore-Hack"
+url: "https://github.com/adbarlow"
+theme: jekyll-theme-cayman
+
+# Build Settings
+markdown: kramdown
+kramdown:
+  auto_ids: false
+paginate: 4
+
